@@ -8,7 +8,9 @@ A brief description of what this project does and who it's for
 
 ## Demo
 
-Insert gif or link to demo
+Inter this link to view my website
+
+[Demo](https://ust-test.github.io/lec7g5)
 
 
 ## Acknowledgements
